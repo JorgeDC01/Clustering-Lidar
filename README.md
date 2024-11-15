@@ -17,6 +17,8 @@ Single Image Clustering:
 
 * DBSCAN: Perform DBSCAN clustering on a LiDAR frame to detect and estimate vehicle count.
 * K-Means: Use K-Means to identify the same clusters based on initial DBSCAN configuration.
+* 
+<img src="screenshots/coche_coche_moto_DBSCAN_conCarretera.png" alt="Dataset Overview" width="600"/>
 
 ## Video Tracking:
 
