@@ -23,7 +23,8 @@ Single Image Clustering:
 ## Video Tracking:
 
 Apply DBSCAN clustering across a sequence of LiDAR frames to detect vehicles within each frame, capturing clusters over time in a video sequence.
-[![Watch the video](screenshots/coche_coche_moto_DBSCAN_conCarretera.png)](video_tracking_.mp4)
+
+[Watch the video](video_tracking_.mp4)
 
 ## Requirements
 The project includes a Jupyter Notebook detailing the LiDAR data preprocessing, clustering using DBSCAN and K-Means, and the application of clustering on a sequence of LiDAR frames. It also includes the datapoints. 
